@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ETes69loqkaNKNCWEOWTQRsfqmiHDUj8/fiBLG3sDvg=",
+  "Source": "ToDoListApplication",
+  "BasePath": "_content/ToDoListApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
